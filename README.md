@@ -30,7 +30,6 @@ docker compose up -d
 schema/          # DDL in execution order
 sql/             # example/reporting queries
 scripts/         # helpers for Docker / MySQL
-docs/            # design/requirements notes (optional)
 ```
 
 ## Notes
